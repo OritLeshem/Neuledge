@@ -1,0 +1,5 @@
+state User {
+  @id(auto:"increment") id: Integer = 1
+  @unique username: String = 2
+  
+}
