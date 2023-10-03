@@ -1,8 +1,8 @@
-Neuledge
+
 ![image](https://github.com/OritLeshem/Neuledge/assets/80868084/6353d57b-5540-4115-946e-9c0f592aa138)
 
 
-Create data models directly from your business logic.
+Neuledge Create data models directly from your business logic.
 
 Main features
 🌍  Intuitive schema
