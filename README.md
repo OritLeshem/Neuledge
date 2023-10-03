@@ -25,8 +25,11 @@ Main features
 
 🚦  Controlled mutations
         Define explicit mutations for each state, allowing only predefined alterations and maintaining control over data changes during state transitions.
-
+        
 📏  Precise validation
         Create unique data types with custom restrictions like minimum and maximum values, regular expressions, and more.
 
 [**# Neuledge**](https://github.com/neuledge/engine-js)
+
+in this repository, we took the Spotify clone that I made and implemented Neuledge models on it.
+
